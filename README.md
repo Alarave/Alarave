@@ -67,7 +67,7 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 </details>
 
 <details open>
-<summary><b>&nbsp; 🤖 Machine Learning & Deep Learning</b></summary>
+<summary><b>&nbsp; Machine Learning & Deep Learning</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="Machine Learning"/>
@@ -75,15 +75,19 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 </details>
 
 <details open>
-<summary><b>&nbsp; 📊 Data Analytics & Processing</b></summary>
+<summary><b>&nbsp;  Data Analytics & Processing</b></summary>
 <br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,spark&theme=dark" alt="Analytics"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
 </p>
 </details>
 
 <details open>
-<summary><b>&nbsp; 🗄️ Databases</b></summary>
+<summary><b>&nbsp;  Databases</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" alt="Databases"/>
@@ -91,7 +95,7 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 </details>
 
 <details open>
-<summary><b>&nbsp; 🚀 Backend & Deployment</b></summary>
+<summary><b>&nbsp; Backend & Deployment</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Frameworks"/>
@@ -99,7 +103,7 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 </details>
 
 <details open>
-<summary><b>&nbsp; ☁️ Cloud, MLOps & Tools</b></summary>
+<summary><b>&nbsp;  Cloud, MLOps & Tools</b></summary>
 <br/>
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,linux,vscode,postman&theme=dark" alt="Tools"/>
@@ -110,23 +114,24 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alarave&layout=compact&hide_border=true&bg_color=0b132b&title_color=38bdf8&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alarave&theme=tokyonight" alt="Profile Details" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alarave&theme=tokyonight" alt="Languages" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Alarave&hide_border=true&background=0B132B&ring=38BDF8&fire=FC5C7D&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=38BDF8&sideLabels=FC5C7D&dates=6B2D5C" alt="GitHub Streak" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alarave&hide_border=true&bg_color=0b132b&color=38bdf8&line=fc5c7d&point=48cae4&area=true&area_color=3a1c71" alt="Activity Graph" width="98%"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=Alarave&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%"/>
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <picture>
@@ -138,7 +143,7 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 
 ---
 
-### 📬 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://firmanporto.netlify.app/">
