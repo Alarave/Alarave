@@ -1,40 +1,31 @@
-<!-- ═══════════════════════ HEADER ════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,15:1c2541,35:3a1c71,55:6b2d5c,75:fc5c7d,90:f77f00,100:38bdf8&height=200&section=header&animation=twinkling" width="100%"/>
+<!-- ═══════════════════════ HEADER & BANNER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,15:1c2541,35:3a1c71,55:6b2d5c,75:fc5c7d,90:f77f00,100:38bdf8&height=180&section=header&animation=twinkling" width="100%"/>
 
-<!-- ═══════════════════════ MOTION BANNER ═════════════════════ -->
 <p align="center">
   <img src="./assets/under_the_stars.gif" width="100%" alt="Under the Stars" />
 </p>
 
-<!-- ═══════════════════════ HERO IDENTITY ═════════════════════ -->
+<!-- ═══════════════════════ HERO IDENTITY ═════════════════════════ -->
 <div align="center">
 
   <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=42&lines=%E2%94%8C%E2%94%80%E2%94%80+FIRMAN+PAMBUDIANSYAH+%E2%94%80%E2%94%80%E2%94%90" alt="Name" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+FIRMAN+PAMBUDIANSYAH+%E2%94%80%E2%94%80%E2%94%90" alt="Firman Pambudiansyah" />
   </a>
 
   <br/>
 
   <a href="https://firmanporto.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=FC5C7D&center=true&vCenter=true&repeat=true&width=650&height=28&lines=Data+Scientist+%7C+AI+%26+Machine+Learning+Enthusiast;Building+Data-Driven+%26+Intelligent+Solutions;Python+%C2%B7+PyTorch+%C2%B7+SQL+%C2%B7+Deep+Learning" alt="Role" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=FC5C7D&center=true&vCenter=true&repeat=true&width=600&height=28&lines=Data+Scientist+%7C+AI+%26+Machine+Learning+Enthusiast;Building+Data-Driven+%26+Scalable+Solutions;Python+%C2%B7+PyTorch+%C2%B7+SQL+%C2%B7+Deep+Learning" alt="Tagline" />
   </a>
 
   <br/><br/>
 
   <p align="center">
-    <a href="https://github.com/Alarave">
-      <img src="https://img.shields.io/badge/dynamic/json?color=1c2541&labelColor=0b132b&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAlarave&style=for-the-badge&logo=github&logoColor=38bdf8" alt="Followers"/>
-    </a>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=Alarave&style=for-the-badge&color=1c2541&label=Views&labelColor=0b132b" alt="Views"/>
-    &nbsp;
-    <a href="https://firmanporto.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-firmanporto.netlify.app-1c2541?style=for-the-badge&labelColor=0b132b&logo=netlify&logoColor=38bdf8" alt="Portfolio"/>
-    </a>
-    &nbsp;
-    <a href="https://www.kaggle.com/pamoriarty">
-      <img src="https://img.shields.io/badge/Kaggle-pamoriarty-1c2541?style=for-the-badge&labelColor=0b132b&logo=kaggle&logoColor=fc5c7d" alt="Kaggle"/>
-    </a>
+    <a href="https://firmanporto.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/firmanpambudiansyah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.kaggle.com/pamoriarty"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+    <a href="mailto:firmanpambudiansyah@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <img src="https://komarev.com/ghpvc/?username=Alarave&style=flat-square&color=38BDF8&label=VIEWS" alt="Views"/>
   </p>
 
 </div>
@@ -43,14 +34,14 @@
 
 ### 👨‍💻 About Me
 
-Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning practitioner. I focus on exploring data patterns, training deep neural networks, and building end-to-end AI applications that deliver meaningful real-world impact.
+Hello! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning practitioner based in Indonesia. I focus on exploratory data analysis, predictive modeling, and developing end-to-end AI applications that deliver meaningful real-world value.
 
 - 🌐 **Portfolio**: [firmanporto.netlify.app](https://firmanporto.netlify.app/)
-- 🔭 **Currently Working On**: Intelligent data pipelines, ML model optimization, and computer vision systems.
-- 🌱 **Learning & Exploring**: LLM application architectures, MLOps, and scalable model inference.
-- 👯 **Open for Collaboration**: Open-source Data Science projects and Machine Learning research.
-- 💬 **Ask Me About**: Python, PyTorch, Data Wrangling, Machine Learning, Deep Learning, and SQL.
-- ⚡ **Fun Fact**: Turning raw, noisy datasets into clean, actionable insights is my favorite kind of problem-solving.
+- 🔭 **Current Focus**: Intelligent data pipelines, model optimization, and computer vision systems.
+- 🌱 **Exploring**: LLM application architectures, MLOps, and scalable model serving.
+- 👯 **Collaboration**: Open-source Data Science projects and Machine Learning research.
+- 💬 **Ask Me About**: Python, PyTorch, Data Wrangling, Deep Learning, and SQL.
+- ⚡ **Fun Fact**: Turning noisy, raw datasets into clean predictive models is my favorite puzzle to solve.
 
 ---
 
@@ -58,68 +49,20 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 
 <div align="center">
 
-<details open>
-<summary><b>&nbsp; 💻 Programming Languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,sql,cpp&theme=dark" alt="Languages"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp; Machine Learning & Deep Learning</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="Machine Learning"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;  Data Analytics & Processing</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;  Databases</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis&theme=dark" alt="Databases"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp; Backend & Deployment</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Frameworks"/>
-</p>
-</details>
-
-<details open>
-<summary><b>&nbsp;  Cloud, MLOps & Tools</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,linux,vscode,postman&theme=dark" alt="Tools"/>
-</p>
-</details>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Machine Learning & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data Pipelines & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Deployment & Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
 </div>
 
 ---
 
-###  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alarave&theme=tokyonight" alt="Profile Details" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alarave&theme=tokyonight" alt="Languages" width="49%"/>
-</p>
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%"/>
@@ -131,43 +74,9 @@ Hi! 👋 I'm **Firman Pambudiansyah**, a Data Scientist and Machine Learning pra
 
 ---
 
-### Contribution Graph
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake-dark.svg" width="98%" />
-  </picture>
+  <i>Thanks for dropping by! Feel free to connect or explore my repositories. 🚀</i>
 </p>
-
----
-
-###  Connect with Me
-
-<p align="center">
-  <a href="https://firmanporto.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-firmanporto.netlify.app-0b132b?style=for-the-badge&logo=netlify&logoColor=38bdf8&labelColor=0b132b&color=1c2541" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Alarave">
-    <img src="https://img.shields.io/badge/GitHub-Alarave-0b132b?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0b132b&color=1c2541" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/firmanpambudiansyah">
-    <img src="https://img.shields.io/badge/LinkedIn-firmanpambudiansyah-0b132b?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0b132b&color=1c2541" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/pamoriarty">
-    <img src="https://img.shields.io/badge/Kaggle-pamoriarty-0b132b?style=for-the-badge&logo=kaggle&logoColor=fc5c7d&labelColor=0b132b&color=1c2541" alt="Kaggle"/>
-  </a>
-  &nbsp;
-  <a href="mailto:firmanpambudiansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-firmanpambudiansyah@gmail.com-0b132b?style=for-the-badge&logo=gmail&logoColor=fc5c7d&labelColor=0b132b&color=1c2541" alt="Email"/>
-  </a>
-</p>
-
-<br/>
 
 <!-- ═══════════════════════ FOOTER ════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,15:1c2541,35:3a1c71,55:6b2d5c,75:fc5c7d,90:f77f00,100:38bdf8&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b132b,15:1c2541,35:3a1c71,55:6b2d5c,75:fc5c7d,90:f77f00,100:38bdf8&height=120&section=footer&animation=twinkling" width="100%"/>
