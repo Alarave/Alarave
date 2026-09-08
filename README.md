@@ -82,15 +82,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=BBCA-Stock-Prediction&theme=tokyonight&hide_border=true" alt="BBCA Stock Prediction" />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/Alarave/kenanga-posyandu">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=kenanga-posyandu&theme=tokyonight&hide_border=true" alt="Kenanga Posyandu" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Alarave/ai-recruiter-dashboard">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=ai-recruiter-dashboard&theme=tokyonight&hide_border=true" alt="AI Recruiter Dashboard" />
-    </a>
-  </p>
 
 </div>
 
