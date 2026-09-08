@@ -66,6 +66,36 @@
 
 ---
 
+<!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+FEATURED+PROJECTS+%E2%94%82" alt="Featured Projects"/>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://github.com/Alarave/Vehicle-CO2-Emission-Prediction">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=Vehicle-CO2-Emission-Prediction&theme=tokyonight&hide_border=true" alt="Vehicle CO2 Emission Prediction" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Alarave/BBCA-Stock-Prediction">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=BBCA-Stock-Prediction&theme=tokyonight&hide_border=true" alt="BBCA Stock Prediction" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Alarave/kenanga-posyandu">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=kenanga-posyandu&theme=tokyonight&hide_border=true" alt="Kenanga Posyandu" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Alarave/ai-recruiter-dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alarave&repo=ai-recruiter-dashboard&theme=tokyonight&hide_border=true" alt="AI Recruiter Dashboard" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+STATISTICS+%E2%94%82" alt="GitHub Statistics"/>
