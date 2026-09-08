@@ -34,9 +34,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+ABOUT+ME+%E2%94%80%E2%94%80%E2%94%90" alt="About Me" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+ABOUT+ME+%E2%94%82" alt="About Me"/>
 
   <br/><br/>
 
@@ -51,9 +49,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+TECH+STACK+%26+TOOLS+%E2%94%80%E2%94%80%E2%94%90" alt="Tech Stack & Tools" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+TECH+STACK+%26+TOOLS+%E2%94%82" alt="Tech Stack & Tools"/>
 
   <br/><br/>
 
@@ -108,9 +104,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+GITHUB+STATISTICS+%E2%94%80%E2%94%80%E2%94%90" alt="GitHub Statistics" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+STATISTICS+%E2%94%82" alt="GitHub Statistics"/>
 
   <br/><br/>
 
@@ -129,9 +123,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+GITHUB+ANALYTICS+%E2%94%80%E2%94%80%E2%94%90" alt="GitHub Analytics" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+METRICS+%E2%94%82" alt="GitHub Metrics"/>
 
   <br/><br/>
 
@@ -149,9 +141,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/Alarave">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+CONTRIBUTION+GRAPH+%E2%94%80%E2%94%80%E2%94%90" alt="Contribution Graph" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+CONTRIBUTION+GRAPH+%E2%94%82" alt="Contribution Graph"/>
 
   <br/><br/>
 
