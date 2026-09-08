@@ -34,7 +34,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+ABOUT+ME+%E2%94%82" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+ABOUT+ME+%E2%94%82" alt="About Me"/>
 
   <br/><br/>
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+TECH+STACK+%26+TOOLS+%E2%94%82" alt="Tech Stack & Tools"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+TECH+STACK+%26+TOOLS+%E2%94%82" alt="Tech Stack & Tools"/>
 
   <br/><br/>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+STATISTICS+%E2%94%82" alt="GitHub Statistics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+STATISTICS+%E2%94%82" alt="GitHub Statistics"/>
 
   <br/><br/>
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+METRICS+%E2%94%82" alt="GitHub Metrics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+GITHUB+METRICS+%E2%94%82" alt="GitHub Metrics"/>
 
   <br/><br/>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+CONTRIBUTION+GRAPH+%E2%94%82" alt="Contribution Graph"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=3000&pause=2000&color=38BDF8&center=true&vCenter=true&repeat=true&width=500&height=35&lines=%E2%94%82+CONTRIBUTION+GRAPH+%E2%94%82" alt="Contribution Graph"/>
 
   <br/><br/>
 
