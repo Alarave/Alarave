@@ -32,61 +32,87 @@
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-Hello! 👋 I'm **Firman Pambudiansyah**, a passionate Data Scientist dedicated to solving complex problems through data, machine learning, and artificial intelligence. I enjoy exploring data patterns, training deep neural networks, and building end-to-end AI applications that deliver meaningful real-world impact.
+  <a href="https://github.com/Alarave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+ABOUT+ME+%E2%94%80%E2%94%80%E2%94%90" alt="About Me" />
+  </a>
 
-- 🌐 **Portfolio / Website**: [firmanporto.netlify.app](https://firmanporto.netlify.app/)
-- 🔭 **Currently Working On**: Intelligent data pipelines, ML model optimization, and AI-powered applications.
-- 🌱 **Learning & Exploring**: Advanced LLM architectures, MLOps, Computer Vision, and scalable AI engineering.
-- 👯 **Open for Collaboration**: Open-source Data Science projects, Machine Learning research, and innovative AI solutions.
-- 💬 **Ask Me About**: Python, Data Wrangling, Machine Learning, Deep Learning, SQL, and Data Visualization.
-- ⚡ **Fun Fact**: I love turning raw, unstructured data into elegant, actionable insights!
+  <br/><br/>
 
----
+  <p>
+    Hey, I'm <b>Firman Pambudiansyah</b> — a Data Scientist and Machine Learning practitioner based in Indonesia.<br/>
+    I focus on exploratory data analysis, predictive modeling, and building practical end-to-end AI applications with Python and PyTorch.
+  </p>
 
-### 🛠️ Tech Stack & Tools
-
-#### 🐍 Programming & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-#### 🤖 Machine Learning & AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-#### 🛢️ Databases & Big Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-
-#### ☁️ Cloud, MLOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-#### 🎨 Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+</div>
 
 ---
-
-### 📊 GitHub Statistics
 
 <div align="center">
+
+  <a href="https://github.com/Alarave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+TECH+STACK+%26+TOOLS+%E2%94%80%E2%94%80%E2%94%90" alt="Tech Stack & Tools" />
+  </a>
+
+  <br/><br/>
+
+  <h4>🐍 Programming & Data Science</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  </p>
+
+  <h4>🤖 Machine Learning & AI</h4>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  </p>
+
+  <h4>🛢️ Databases & Big Data</h4>
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  </p>
+
+  <h4>☁️ Cloud, MLOps & Tools</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </p>
+
+  <h4>🎨 Design & Prototyping</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <a href="https://github.com/Alarave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+GITHUB+STATISTICS+%E2%94%80%E2%94%80%E2%94%90" alt="GitHub Statistics" />
+  </a>
+
+  <br/><br/>
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -101,15 +127,43 @@ Hello! 👋 I'm **Firman Pambudiansyah**, a passionate Data Scientist dedicated 
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%"/>
-</p>
+  <a href="https://github.com/Alarave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+GITHUB+ANALYTICS+%E2%94%80%E2%94%80%E2%94%90" alt="GitHub Analytics" />
+  </a>
 
-<p align="center">
-  <img src="https://github-activity-graph.vercel.app/graph?username=Alarave&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%"/>
-</p>
+  <br/><br/>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-activity-graph.vercel.app/graph?username=Alarave&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="98%"/>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <a href="https://github.com/Alarave">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%E2%94%8C%E2%94%80%E2%94%80+CONTRIBUTION+GRAPH+%E2%94%80%E2%94%80%E2%94%90" alt="Contribution Graph" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/Alarave/Alarave/output/github-snake-dark.svg" width="98%" />
+    </picture>
+  </p>
+
+</div>
 
 ---
 
