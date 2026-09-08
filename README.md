@@ -18,18 +18,15 @@
 
 ### 👨‍💻 About Me
 
-Hello! 👋 I'm **Firman Pambudiansyah**, a passionate Data Scientist dedicated to solving complex problems through data, machine learning, and artificial intelligence. I enjoy exploring data patterns, training deep neural networks, and building end-to-end AI applications that deliver meaningful real-world impact.
-
-- 🌐 **Portfolio / Website**: [firmanporto.netlify.app](https://firmanporto.netlify.app/)
-- 🔭 **Currently Working On**: Intelligent data pipelines, ML model optimization, and AI-powered applications.
-- 🌱 **Learning & Exploring**: Advanced LLM architectures, MLOps, Computer Vision, and scalable AI engineering.
-- 👯 **Open for Collaboration**: Open-source Data Science projects, Machine Learning research, and innovative AI solutions.
-- 💬 **Ask Me About**: Python, Data Wrangling, Machine Learning, Deep Learning, SQL, and Data Visualization.
-- ⚡ **Fun Fact**: I love turning raw, unstructured data into elegant, actionable insights!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&multiline=true&width=800&height=110&lines=Hello!+👋+I%27m+Firman+Pambudiansyah,;a+Data+Scientist+and+Machine+Learning+practitioner+based+in+Indonesia.;I+focus+on+exploratory+data+analysis,+predictive+modeling,;and+developing+end-to-end+AI+applications+that+deliver+meaningful+real-world+value." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=0284C7&multiline=true&width=800&height=110&lines=Hello!+👋+I%27m+Firman+Pambudiansyah,;a+Data+Scientist+and+Machine+Learning+practitioner+based+in+Indonesia.;I+focus+on+exploratory+data+analysis,+predictive+modeling,;and+developing+end-to-end+AI+applications+that+deliver+meaningful+real-world+value." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&multiline=true&width=800&height=110&lines=Hello!+👋+I%27m+Firman+Pambudiansyah,;a+Data+Scientist+and+Machine+Learning+practitioner+based+in+Indonesia.;I+focus+on+exploratory+data+analysis,+predictive+modeling,;and+developing+end-to-end+AI+applications+that+deliver+meaningful+real-world+value." alt="Hello! 👋 I'm Firman Pambudiansyah, a Data Scientist and Machine Learning practitioner based in Indonesia. I focus on exploratory data analysis, predictive modeling, and developing end-to-end AI applications that deliver meaningful real-world value." />
+</picture>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### 🐍 Programming & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,7 +65,7 @@ Hello! 👋 I'm **Firman Pambudiansyah**, a passionate Data Scientist dedicated 
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <div align="center">
   <table border="0">
