@@ -89,7 +89,7 @@
   <br/><br/>
 
   <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%"/>
+    <img src="https://streak-stats.demolab.com?user=Alarave&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta" alt="GitHub Streak" width="98%"/>
   </p>
 
   <p align="center">
