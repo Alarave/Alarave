@@ -39,8 +39,8 @@
   <br/><br/>
 
   <p>
-    Hey, I'm <b>Firman Pambudiansyah</b> — a Data Scientist and Machine Learning practitioner based in Indonesia.<br/>
-    I focus on exploratory data analysis, predictive modeling, and building practical end-to-end AI applications with Python and PyTorch.
+    Computer Science student at <b>Universitas Gunadarma</b> focusing on <b>AI &amp; Machine Learning Engineering</b>.<br/>
+    Building predictive models, neural architectures, and scalable web apps using Python, PyTorch, and Laravel.
   </p>
 
 </div>
