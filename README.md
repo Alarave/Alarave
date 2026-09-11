@@ -93,7 +93,7 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Alarave/Alarave/output/github-roller-coaster.svg" alt="GitHub Activity Roller Coaster" width="98%"/>
+    <img src="https://github-activity-graph.vercel.app/graph?username=Alarave&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%"/>
   </p>
 
 </div>
